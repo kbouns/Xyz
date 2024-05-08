@@ -8,7 +8,11 @@ const Main = () => {
       <img className='w-full h-screen object-cover object-contain object-right' src={Test} alt=''/>
       <div className='w-full h-screen absolute top-0 left-0 bg-white/25'>
         <div className='max-w-[1200px] m-auto h-2/3 w-full flex flex-col justify-center lg:items-start items-center'>
+<<<<<<< HEAD
         <h1 className='flex sm:text-4xl text-3xl font-bold text-sky-600'>Je suis</h1>
+=======
+        <h1 className='flex sm:text-4xl text-3xl font-bold text-sky-600'>Je suis BK</h1>
+>>>>>>> 21445e7c4be7fa1d1f03058c2f5ff34c0ad11230
         <h2 className='flex sm:text-3xl text-sky-600'>Je suis
           <TypeAnimation
             sequence={[
