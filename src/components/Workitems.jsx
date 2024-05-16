@@ -11,7 +11,7 @@ const Workitems = ({Année,Title,Duration,details,Tools}) => {
                     <span className='my-1 text-sm font-normal leading-none text-stone-400'>{Duration}</span>
                 </p>
             <p className='my-2 text-base font-normal text-stone-500 md:text-justify'>{details}</p>
-            <p className='my-2 text-base font-bold text-stone-500 md:text-justify'>{Tools}</p>
+            <p className='my-2 text-base font-bold text-cyan-400 md:text-justify'>{Tools}</p>
         </li>
     </ol>
   )
