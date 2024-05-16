@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 import Sidenav from './components/Sidenav'
 import Main from './components/Main'
 import Travail from './components/Travail'
