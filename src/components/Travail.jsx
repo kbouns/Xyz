@@ -20,13 +20,13 @@ const data = [
     {
         Année: 2020,
         Title: 'ASSOCIATION ELYSEES MARBEUF FORMATION / GROUPE GIFT - Assistant comptable en alternance, Comptabilité Bancaire',
-        Duration: 'Octobre 2019 - Août 2020',
+        Duration:'Octobre 2019 - Août 2020',
         details: 'Saisie quotidienne bancaire de plusieurs entités (Supsante/IAAG/ Groupe Gift/Association ITE/Association IAAG, Paroptic). Saisie Virement Bancaire. Rapprochement Bancaire. Remise de chèque des écoles / Encaissement des nouveaux chèques d’élèves. Classer et archiver les pièces et documents comptables.',
         Tools: "Logiciels : Ciel Compta / Excel / Exacompta",
     },
     {
         Année: 2018,
-        Title: 'BOCO - Assistant comptable (Stage), Comptabilité Fournisseur',
+        Title: 'BOCO - Assistant comptable (Stage), Comptabilité Fournisseur ',
         Duration: 'Novembre - Décembre 2018 (5 Semaines)',
         details: 'Saisie des piéces comptables sur Ciel Compta Lettrage Rapprochement Bancaire. ',
         Tools: "Logiciel : Sage 100c",
@@ -68,11 +68,6 @@ const Travail = () => {
                     Tools={item.Tools}
                 />
             ))}
-        <div id='main' className="flex flex-col items-center justify-center">
-      <a href="https://drive.google.com/file/d/1axRR7TU-_wv5BNcm30f5jyQJUWO5tCIv/view?usp=drive_link"className='bg-[#001b5e] text-gray-100 mt-4 p-4 rounded-lg place-items-center'>
-          Télécharger curriculum Vitae
-      </a>
-        </div>
 
         </div>  
         
