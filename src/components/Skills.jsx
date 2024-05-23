@@ -3,6 +3,7 @@ import HTML5img from '../assets/HTML5.png';
 import CSS3img from '../assets/CSS3.png';
 import Javascriptimg from '../assets/javascript.png';
 import Reactimg from '../assets/React.png';
+import Tailwind from '../assets/tailwind.png'
 
 const Skills = () => {
   const tech = [
@@ -29,7 +30,13 @@ const Skills = () => {
       img: Reactimg,
       title: 'React',
       style: 'shadow-blue-500',
-    }
+    },
+    {
+      id : 5,
+      img : Tailwind,
+      title : 'Tailwind CSS',
+      style: 'shadow-sky-400',
+    },
   ];
 
   return (
