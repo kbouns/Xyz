@@ -15,7 +15,7 @@ const Projet = () => {
         <Objetprojet img={Youtubeimg} title='Clone Youtube' info='Javascript/HTML/CSS3' link='https://bounsengbkclone-youtube.netlify.app/'/>
         <Objetprojet img={ToDolist} title='ToDo List' info='HTML/CSS3/Javascript' link='https://todolist-bkfr.netlify.app/'/>
         <Objetprojet img={Multiplication} title=' Table de multiplication' info='HTML/CSS3/Javascript' link='https://multiplicationjsbkfr.netlify.app/'/>
-        <Objetprojet img={Morpion} title='Morpion en react' info='Javascript/CSS3/React' link='https://morpionbk.netlify.app/'/>
+        <Objetprojet img={Morpion} title='Morpion en React' info='Javascript/CSS3/React' link='https://morpionbk.netlify.app/'/>
       </div>    
     </div>
   );
