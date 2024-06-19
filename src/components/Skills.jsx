@@ -43,7 +43,7 @@ const Skills = () => {
     <div>
       <div id='skills' className='max-w-[1090px] mx-auto md:pl-20 p-4 py-10'>
         <h1 className='text-4xl font-bold text-center text-[#001b5e]'>Mes technologies en cours</h1>
-        <p className='text-center py-8'>Technologie en cours d'apprentissage</p>
+        <p className='text-center py-8'>Technologie en cours d'apprentissage !!!!</p>
       </div>
 
       <div className='full grid grid-cols-1 sm:grid-cols-3 text-center gap-12 mx-36'>
